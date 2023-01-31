@@ -4,6 +4,6 @@ hello
 
 hello
 
-goodbye
+new line
 
-goodbye
+another line
