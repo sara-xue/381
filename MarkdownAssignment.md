@@ -1,4 +1,4 @@
-<h1 class="center">Markdown Assigment on Cats</h1>
+<h1 align="center">Markdown Assigment on Cats</h1>
 <p>Cats are very cool</p>
 
 
