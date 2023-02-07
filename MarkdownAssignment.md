@@ -6,11 +6,11 @@
 
 This is a [very cool link that you should read](readme1.md) since it is very interesting
 
-<p> src="catphoto/cute cat pic.jpeg"
+<p> Do cats have VO<sub>2</sub>?</p>
 
-<p>VO<sub>2</sub></p>
+<img align ="center" width="125" height="200" src="catphoto/cute cat pic.jpeg">
+This image will take you to [another folder] (catphoto)
+  
 
-<DottedLetter>Q</DottedLetter>
 
-<span>&#775;R</span>
 
